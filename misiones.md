@@ -1,1 +1,2 @@
-Investiga al Dr. Doom
+* Investiga al Dr. Doom
+* Capturar a Red Skull

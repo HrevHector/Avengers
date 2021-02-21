@@ -2,3 +2,4 @@
 
 * Dr. Doom
 * Thanos
+* Red Skull
